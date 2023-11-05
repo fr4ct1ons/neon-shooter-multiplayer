@@ -1,2 +1,2 @@
 # neon-shooter-multiplayer
-College Project
+College project
